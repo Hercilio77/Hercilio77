@@ -1,6 +1,3 @@
-Cola isso direto no seu README.md:
-
-text
 # Olá, me chamo Hercílio Falcão 
 
 Analista de Dados com formação em Engenharia de Software (UniFatecie) e base técnica em Informática pelo IFCE.
